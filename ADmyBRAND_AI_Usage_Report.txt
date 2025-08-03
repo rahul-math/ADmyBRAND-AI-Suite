@@ -1,0 +1,34 @@
+ADmyBRAND AI Suite - AI Usage Report
+
+AI Tools Used:
+- Primary tools: ChatGPT-4o, Gemini, GitHub Copilot
+- Key use cases:
+  - Component scaffolding (React + TypeScript)
+  - Prompt engineering for landing page structure
+  - Tailwind CSS utility suggestions
+  - Refactoring legacy JSX to build-less ES module style
+  - Writing multi-step authentication UI
+
+Sample Prompts:
+1. "Build a responsive pricing toggle component using React and Tailwind with INR/USD switch and monthly/yearly plans."
+2. "Generate a 'Sign Up as Buyer/Seller' role selection screen with local routing in a no-build setup."
+3. "How to implement animated sticky header using Tailwind and React hooks?"
+
+AI vs Manual Work Split:
+- AI-generated: ~70%
+  - Base components (Hero section, navbar, modals, carousels)
+  - Tailwind class suggestions
+  - Routing structure with hash-based navigation
+  - Authentication UI flow logic
+
+- Manual coding: ~30%
+  - Integration of multi-column dropdowns
+  - Pricing logic and currency handling
+  - Local storage theme persistence
+  - Minor bug fixes and layout adjustments
+
+Customization:
+- Tweaked component hierarchy and folder structure
+- Manually optimized layout spacing for mobile/tablet breakpoints
+- Refined modal UX and form validation flows
+- Integrated brand palette and typography consistently
